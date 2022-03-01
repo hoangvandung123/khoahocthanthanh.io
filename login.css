@@ -1,0 +1,59 @@
+img.cangiua {display: block; margin-left: auto; margin-right: auto;}
+      a:hover{
+			color:azure;
+			text-decoration: underline;
+		}
+		a{
+			text-decoration: underline;
+		}
+		p{
+			border-style: solid;
+			border-width: 0px;
+	
+		}
+	footer{
+    background-color:deepskyblue;
+  }
+          
+          a{
+            text-decoration: none;
+            text-align:left;
+          }
+          ul {
+            margin: 0;
+            padding: 0;
+            list-style-type: none;
+            overflow: hidden;
+            background-color:deepskyblue;
+            position: fixed;
+            
+          }
+          
+          li {
+            float: left;
+            border-right: 1px solid #bbb;
+            
+          }
+          li:last-child {
+            border-right: none;
+          }
+          li a {
+            display:block;
+            color:black;
+            padding: 10px;
+            
+          }
+          
+          li a:hover:not(.active) {
+            background-color:aliceblue;
+          }
+          
+          
+          
+          a:hover{
+            color:black;
+            text-decoration: underline;
+          }
+          a{
+            text-decoration: underline;
+          }
